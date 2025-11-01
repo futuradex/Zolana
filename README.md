@@ -2,6 +2,8 @@
 
 A privacy-focused blockchain combining Solana's high-performance architecture with Zcash's zero-knowledge privacy features.
 
+CA: soon
+
 ## Overview
 
 Zolana is an educational blockchain implementation that demonstrates advanced concepts including:
@@ -241,39 +243,3 @@ This is an educational implementation. For production use, you would need:
 - **Target Block Time**: 10 seconds
 - **Minimum Transaction Fee**: 0.0001 ZOL
 - **Minimum Validator Stake**: 1000 ZOL
-
-## Roadmap
-
-- [ ] Smart contract support
-- [ ] Cross-chain bridges
-- [ ] Light client implementation
-- [ ] Mobile wallet
-- [ ] Hardware wallet support
-- [ ] Governance system
-- [ ] Decentralized exchange integration
-
-## Contributing
-
-This is an educational project. Contributions are welcome for:
-
-- Bug fixes
-- Documentation improvements
-- Test coverage
-- Performance optimizations
-- Additional privacy features
-
-## License
-
-MIT License - Educational purposes only
-
-## Disclaimer
-
-This is a conceptual implementation for educational purposes. It is NOT production-ready and should NOT be used for real financial transactions. The cryptographic implementations are simplified and would require significant enhancement for real-world use.
-
-## Resources
-
-- [Zcash Protocol Specification](https://zips.z.cash/)
-- [Solana Documentation](https://docs.solana.com/)
-- [Zero-Knowledge Proofs](https://z.cash/technology/zksnarks/)
-- [UTXO Model](https://en.bitcoin.it/wiki/UTXO)
-- [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
