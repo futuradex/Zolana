@@ -2,7 +2,7 @@
 
 A privacy-focused blockchain combining Solana's high-performance architecture with Zcash's zero-knowledge privacy features.
 
-CA: soon
+CA: 6RnDc11jXpFXTCwMngufRhZFCMnPo7bazRSJaABKpump
 
 ## Overview
 
